@@ -53,33 +53,33 @@ In-memory array for storage (as per assignment guideline)
 ## Installation & Setup
 1. Clone the repository
 
-'''
+```
 git clone https://github.com/Taniishaaa/text-history-generator
 
-'''
+```
 
 2. Backend Setup
 
-'''
+```
 cd backend
 
 npm install
 
 npm start
-'''
+```
 
 
 Your backend will run at: http://localhost:4000
 
 3. Frontend Setup
 
-'''
+```
 cd frontend
 
 npm install
 
 npm run dev
-'''
+```
 
 Open the URL shown in your terminal (usually http://localhost:5173).
 
